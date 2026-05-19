@@ -91,7 +91,9 @@ const skanda = {
 
 | | Achievement | Details |
 |:---:|:---|:---|
-| 🥇 | **1st Place — Scrap to Smart Event** | Inter-college hardware & innovation challenge |
+| 🥇 | **1st Place — Scrap to Smart Event** | An initiative under BIT E-Swachha focused on innovative ideas to recycle and reuse
+
+e-waste |
 | 🎓 | **B.Tech CSE — BIT Bangalore** | Currently pursuing, building every semester |
 | 🔨 | **Active Open Source Contributor** | Pushing code and learning in public |
 | 📡 | **Available for Opportunities** | Internships, freelance & hackathon collabs |
