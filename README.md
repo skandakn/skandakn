@@ -28,7 +28,6 @@ const skanda = {
   passion:    ["Web Dev", "IoT", "Problem Solving"],
   achievement:"🥇 1st Place — Scrap to Smart Event",
   available:  true,  // open to internships & collabs!
-  funFact:    "Built a door security system before learning React 🔐"
 };
 ```
 
