@@ -50,26 +50,44 @@ const skanda = {
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+### 🛠️ Skills & Tools
 
-**Skills & Tools**
+<div align="center">
+
+
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+ 
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva -00C4CC?style=for-the-badge&logo=canva& logoColor=white)
-![Prompt
 
-Engineering] (https://img.shields.io/badge/Prompt _Engineering-FF6B6B?style=for-the-badge) ![Presentation
+ 
 
-Skills] (https://img.shields.io/badge/Presentation
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-_Skills-4CAF50?style=for-the-badge)
+ 
 
-![AI
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-Prototyping] (https://img.shields.io/badge/Al_Protot
+ 
 
-yping-2196F3?style=for-the-badge) ![Hackathons] (https://img.shields.io/badge /Hackathons-F9A826?style=for-the-badge)
+![Prompt_Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge)
+
+ 
+
+![Presentation_Skills](https://img.shields.io/badge/Presentation_Skills-4CAF50?style=for-the-badge)
+
+ 
+
+![AI_Prototyping](https://img.shields.io/badge/AI_Prototyping-2196F3?style=for-the-badge)
+
+ 
+
+![Hackathons](https://img.shields.io/badge/Hackathons-F9A826?style=for-the-badge)
+
+
+
 </div>
 
 
