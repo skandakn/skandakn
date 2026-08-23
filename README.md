@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&multiline=false&width=600&lines=%F0%9F%8C%90%20Web%20Enthusiast%20%26%20Builder;%F0%9F%8E%93%20B.Tech%20CSE%20%40%20BIT%20Bangalore;%F0%9F%A5%87%20Scrap%20to%20Smart%20Project%20Exhibition%20Winner;%F0%9F%A5%88%202nd%20Place%20-%20Parikalp%20State%20Level%20Ideathon;%F0%9F%A5%89%203rd%20Place%20-%20Google%20Agent%20Labs%20Hackathon;%F0%9F%94%A7%20Turning%20ideas%20into%20working%20code)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/skandakn/skandakn/main/assets/profile.jpg" width="180" alt="Skanda K N" />
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skanda-k-n-b481b4385) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skandakn13@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skandakn) [![Profile Views](https://komarev.com/ghpvc/?username=skandakn&style=for-the-badge&color=F97316&label=PROFILE+VIEWS)](https://github.com/skandakn)
 
 ---
@@ -29,6 +33,7 @@ const skanda = {
 
 ---
 
+<!--
 ### 💻 neofetch
 
 ```
@@ -57,6 +62,7 @@ const skanda = {
 ```
 
 ---
+-->
 
 ### 🛠️ Tech Arsenal
 
