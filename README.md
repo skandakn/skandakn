@@ -1,6 +1,6 @@
 [![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Skanda%20K%20N&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Web%20Enthusiast%20%7C%20CSE%20Student%20%7C%20Builder&descAlignY=60&descSize=18&animation=fadeIn)](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Skanda%20K%20N&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Web%20Enthusiast%20%7C%20CSE%20Student%20%7C%20Builder&descAlignY=60&descSize=18&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&multiline=false&width=500&lines=%F0%9F%8C%90+Web+Enthusiast+%26+Builder;%F0%9F%8E%93+B.Tech+CSE+%40+BIT+Bangalore;%F0%9F%A5%87+Scrap+to+Smart+Event+Winner;%F0%9F%94%A7+Turning+ideas+into+working+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&multiline=false&width=600&lines=%F0%9F%8C%90%20Web%20Enthusiast%20%26%20Builder;%F0%9F%8E%93%20B.Tech%20CSE%20%40%20BIT%20Bangalore;%F0%9F%A5%87%20Scrap%20to%20Smart%20Project%20Exhibition%20Winner;%F0%9F%A5%88%202nd%20Place%20-%20Parikalp%20State%20Level%20Ideathon;%F0%9F%A5%89%203rd%20Place%20-%20Google%20Agent%20Labs%20Hackathon;%F0%9F%94%A7%20Turning%20ideas%20into%20working%20code)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skanda-k-n-b481b4385) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skandakn13@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skandakn) [![Profile Views](https://komarev.com/ghpvc/?username=skandakn&style=for-the-badge&color=F97316&label=PROFILE+VIEWS)](https://github.com/skandakn)
 
@@ -17,7 +17,7 @@ const skanda = {
   university: "Bangalore Institute of Technology",
   location:   "Bangalore, India 🇮🇳",
   passion:    ["Web Dev", "IoT", "Problem Solving"],
-  achievement:"🥇 1st Place — Scrap to Smart Event",
+  achievement:"🥇 1st Place — Scrap to Smart Project Exhibition",
   available:  true,  // open to internships & collabs!
 };
 ```
@@ -26,6 +26,35 @@ const skanda = {
 - 🌱 Learning **DSA**, **System Design** and **Cloud basics**
 - 💡 Love converting real-world problems into working solutions
 - 🤝 Open to **internships**, **collabs**, and **hackathons**
+
+---
+
+### 💻 neofetch
+
+```
+
+               .-/+oossssoo+/-.               skandakn@github
+           `:+ssssssssssssssssss+:`           ----------------
+         -+ssssssssssssssssssyyssss+-         OS: Bangalore, India 🇮🇳
+       .ossssssssssssssssssdMMMNysssso.       Host: BIT — B.Tech CSE
+      /ssssssssssshdmmNNmmyNMMMMhssssss/      Uptime: 2nd year, building every semester
+     +ssssssssshmydMMMMMMMNddddyssssssss+     
+    /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Languages: Python, C, HTML/CSS
+    .ssssssssdMMMNhsssssssssshNMMMdssssssss.  Tools: Git, GitHub, VS Code, Canva
+    +sssshhhyNMMNyssssssssssssyNMMMysssssss+  Skills: Prompt Engineering, AI Prototyping,
+    ossyNMMMNyMMhsssssssssssssshmmmhssssssso          Presentation Skills, Hackathons
+    ossyNMMMNyMMhsssssssssssssshmmmhssssssso  
+    +sssshhhyNMMNyssssssssssssyNMMMysssssss+  Achievements:
+    .ssssssssdMMMNhsssssssssshNMMMdssssssss.    🥇 Scrap to Smart Project Exhibition
+    /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/      🥈 Parikalp State Level Ideathon
+     +sssssssssdmydMMMMMMMMddddyssssssss+       🥉 Google Agent Labs Hackathon
+      /ssssssssssshdmNNNNmyNMMMMhssssss/      
+       .ossssssssssssssssssdMMMNysssso.       Contact:
+         -+sssssssssssssssssyyyssss+-           Email:    skandakn13@gmail.com
+           `:+ssssssssssssssssss+:`             LinkedIn: skanda-k-n-b481b4385
+               .-/+oossssoo+/-.                 GitHub:   @skandakn
+
+```
 
 ---
 
@@ -61,7 +90,7 @@ const skanda = {
 
 |   | Achievement | Details |
 | --- | --- | --- |
-| 🥇 | **1st Place — Scrap to Smart Event** | An initiative under BIT E-Swachha focused on innovative ideas to recycle and reuse e-waste |
+| 🥇 | **1st Place — Scrap to Smart Project Exhibition** | An initiative under BIT E-Swachha focused on innovative ideas to recycle and reuse e-waste |
 | 🥈 | **2nd Place — Parikalp State Level Ideathon** | State-level ideathon showcasing innovative problem-solving |
 | 🥉 | **3rd Place — Google Agent Labs Hackathon** | Hackathon focused on building AI agent-based solutions |
 | 🎓 | **B.Tech CSE — BIT Bangalore** | Currently pursuing, building every semester |
@@ -81,6 +110,18 @@ const skanda = {
 ### 📈 Contribution Activity
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=skandakn&bg_color=0d1117&color=F97316&line=F97316&point=ffffff&area=true&hide_border=true&cache_seconds=86400)](https://github-readme-activity-graph.vercel.app/graph?username=skandakn&bg_color=0d1117&color=F97316&line=F97316&point=ffffff&area=true&hide_border=true&cache_seconds=86400)
+
+---
+
+### 👾 Pac-Man Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skandakn/skandakn/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skandakn/skandakn/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/skandakn/skandakn/output/pacman-contribution-graph.svg">
+</picture>
+
+*(Set up the one-time GitHub Action below — see PACMAN_SETUP.md — then this image lights up on its own.)*
 
 ---
 
