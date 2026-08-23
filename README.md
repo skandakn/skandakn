@@ -85,10 +85,13 @@ const skanda = {
 
 ### 🚀 Featured Projects
 
-| 🔐 Door Security Alert System | ♻️ Waste2Value | 🏥 Hospital Management System |
+| Project | What it does | Stack |
 | --- | --- | --- |
-| Smart IoT-based security system that detects unauthorized access and fires instant alerts in real time | A web platform connecting waste generators with recyclers, turning waste data into actionable value | Full-featured hospital ops system covering patients, appointments, billing and staff management |
-| `Python` `IoT` `Sensors` | `Python` `MySQL` `Web` | `HTML/CSS` `JavaScript` `MySQL` |
+| 🤖 **[Hackathon Launch & Marketing Agent](https://lnkd.in/gC86DRWi)** | AI multi-agent system that turns a hackathon brief into a full launch package — research, branding, landing page, sponsor outreach, social plan & budget | `Google ADK` `Gemini` `FastAPI` `Next.js` `Qdrant` |
+| ⚡ **Footstep Piezoelectric Generator** | Converts footstep pressure into electricity via piezoelectric sensors, rectified and monitored live on an Arduino + LCD | `Arduino` `Piezoelectric` `Embedded` |
+| 🔐 **Door Security Alert System** | IoT security system that detects unauthorized access and fires instant real-time alerts | `Python` `IoT` `Sensors` |
+| ♻️ **Waste2Value** | Web platform connecting waste generators with recyclers, turning waste data into value | `Python` `MySQL` `Web` |
+| 🏥 **Hospital Management System** | Full ops system covering patients, appointments, billing & staff | `HTML/CSS` `JavaScript` `MySQL` |
 
 ---
 
