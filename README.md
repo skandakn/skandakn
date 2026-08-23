@@ -80,6 +80,10 @@ const skanda = {
 [![Presentation_Skills](https://img.shields.io/badge/Presentation_Skills-4CAF50?style=for-the-badge)](https://img.shields.io/badge/Presentation_Skills-4CAF50?style=for-the-badge)
 [![AI_Prototyping](https://img.shields.io/badge/AI_Prototyping-2196F3?style=for-the-badge)](https://img.shields.io/badge/AI_Prototyping-2196F3?style=for-the-badge)
 [![Hackathons](https://img.shields.io/badge/Hackathons-F9A826?style=for-the-badge)](https://img.shields.io/badge/Hackathons-F9A826?style=for-the-badge)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+[![MCP](https://img.shields.io/badge/MCP-6E56CF?style=for-the-badge)](https://img.shields.io/badge/MCP-6E56CF?style=for-the-badge)
+[![API_Development](https://img.shields.io/badge/API_Development-009688?style=for-the-badge)](https://img.shields.io/badge/API_Development-009688?style=for-the-badge)
 
 ---
 
@@ -87,7 +91,7 @@ const skanda = {
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| 🤖 **[Hackathon Launch & Marketing Agent](https://lnkd.in/gC86DRWi)** | AI multi-agent system that turns a hackathon brief into a full launch package — research, branding, landing page, sponsor outreach, social plan & budget | `Google ADK` `Gemini` `FastAPI` `Next.js` `Qdrant` |
+| 🤖 **Hackathon Launch & Marketing Agent** | AI multi-agent system that turns a hackathon brief into a full launch package — research, branding, landing page, sponsor outreach, social plan & budget | `Google ADK` `Gemini` `FastAPI` `Next.js` `Qdrant` |
 | ⚡ **Footstep Piezoelectric Generator** | Converts footstep pressure into electricity via piezoelectric sensors, rectified and monitored live on an Arduino + LCD | `Arduino` `Piezoelectric` `Embedded` |
 | 🔐 **Door Security Alert System** | IoT security system that detects unauthorized access and fires instant real-time alerts | `Python` `IoT` `Sensors` |
 | ♻️ **Waste2Value** | Web platform connecting waste generators with recyclers, turning waste data into value | `Python` `MySQL` `Web` |
@@ -105,14 +109,6 @@ const skanda = {
 | 🎓 | **B.Tech CSE — BIT Bangalore** | Currently pursuing, building every semester |
 | 🔨 | **Active Open Source Contributor** | Pushing code and learning in public |
 | 📡 | **Available for Opportunities** | Internships, freelance & hackathon collabs |
-
----
-
-### 📊 GitHub Stats
-
-[![](https://github-readme-stats.vercel.app/api?username=skandakn&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F97316&icon_color=F97316&text_color=ffffff&cache_seconds=86400)](https://github-readme-stats.vercel.app/api?username=skandakn&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F97316&icon_color=F97316&text_color=ffffff&cache_seconds=86400) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=skandakn&layout=compact&hide_border=true&bg_color=0d1117&title_color=F97316&text_color=ffffff&cache_seconds=86400)](https://github-readme-stats.vercel.app/api/top-langs/?username=skandakn&layout=compact&hide_border=true&bg_color=0d1117&title_color=F97316&text_color=ffffff&cache_seconds=86400)
-
-[![](https://streak-stats.demolab.com?user=skandakn&theme=dark&hide_border=true&background=0d1117&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=ffffff&dates=888888)](https://streak-stats.demolab.com?user=skandakn&theme=dark&hide_border=true&background=0d1117&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=ffffff&dates=888888)
 
 ---
 
